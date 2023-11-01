@@ -1,0 +1,571 @@
+"","UNIDADE","DEPARTAMENTO","semestre","total_prof_ufrgs","total_matri_ufrgs","num_matri_por_prof"
+"1","Escola de Administração","Departamento de Ciências Administrativas","2018/1",37,3777,102.08
+"2","Escola de Administração","Departamento de Ciências Administrativas","2018/2",37,5850,158.11
+"3","Escola de Administração","Departamento de Ciências Administrativas","2019/1",37,2805,75.81
+"4","Escola de Administração","Departamento de Ciências Administrativas","2019/2",37,714,19.3
+"5","Escola de Administração","Departamento de Ciências Administrativas","2020/1",37,903,24.41
+"6","Escola de Administração","Departamento de Ciências Administrativas","2020/2",37,1179,31.86
+"7","Escola de Educação Física, Fisioterapia e Dança","Departamento de Educação Física, Fisioterapia e Dança","2018/1",85,924,10.87
+"8","Escola de Educação Física, Fisioterapia e Dança","Departamento de Educação Física, Fisioterapia e Dança","2018/2",85,4710,55.41
+"9","Escola de Educação Física, Fisioterapia e Dança","Departamento de Educação Física, Fisioterapia e Dança","2019/1",85,5436,63.95
+"10","Escola de Educação Física, Fisioterapia e Dança","Departamento de Educação Física, Fisioterapia e Dança","2019/2",85,4246,49.95
+"11","Escola de Educação Física, Fisioterapia e Dança","Departamento de Educação Física, Fisioterapia e Dança","2020/1",85,3073,36.15
+"12","Escola de Educação Física, Fisioterapia e Dança","Departamento de Educação Física, Fisioterapia e Dança","2020/2",85,2377,27.96
+"13","Escola de Enfermagem","Departamento de Assistência e Orientação Profissional","2018/1",57,3523,61.81
+"14","Escola de Enfermagem","Departamento de Assistência e Orientação Profissional","2018/2",57,5442,95.47
+"15","Escola de Enfermagem","Departamento de Assistência e Orientação Profissional","2019/1",57,712,12.49
+"16","Escola de Enfermagem","Departamento de Assistência e Orientação Profissional","2019/2",57,2041,35.81
+"17","Escola de Enfermagem","Departamento de Assistência e Orientação Profissional","2020/1",57,5364,94.11
+"18","Escola de Enfermagem","Departamento de Assistência e Orientação Profissional","2020/2",57,2792,48.98
+"19","Escola de Enfermagem","Departamento de Enfermagem Materno-Infantil","2018/1",20,1750,87.5
+"20","Escola de Enfermagem","Departamento de Enfermagem Materno-Infantil","2018/2",20,2482,124.1
+"21","Escola de Enfermagem","Departamento de Enfermagem Materno-Infantil","2019/1",20,1731,86.55
+"22","Escola de Enfermagem","Departamento de Enfermagem Materno-Infantil","2019/2",20,417,20.85
+"23","Escola de Enfermagem","Departamento de Enfermagem Materno-Infantil","2020/1",20,518,25.9
+"24","Escola de Enfermagem","Departamento de Enfermagem Materno-Infantil","2020/2",20,1726,86.3
+"25","Escola de Enfermagem","Departamento de Enfermagem Médico-Cirúrgica","2018/1",73,4796,65.7
+"26","Escola de Enfermagem","Departamento de Enfermagem Médico-Cirúrgica","2018/2",73,4338,59.42
+"27","Escola de Enfermagem","Departamento de Enfermagem Médico-Cirúrgica","2019/1",73,1665,22.81
+"28","Escola de Enfermagem","Departamento de Enfermagem Médico-Cirúrgica","2019/2",73,2309,31.63
+"29","Escola de Enfermagem","Departamento de Enfermagem Médico-Cirúrgica","2020/1",73,5800,79.45
+"30","Escola de Enfermagem","Departamento de Enfermagem Médico-Cirúrgica","2020/2",73,4136,56.66
+"31","Escola de Enfermagem","Departamento de Saúde Coletiva","2019/1",48,3301,68.77
+"32","Escola de Enfermagem","Departamento de Saúde Coletiva","2019/2",48,2355,49.06
+"33","Escola de Enfermagem","Departamento de Saúde Coletiva","2020/1",48,5707,118.9
+"34","Escola de Enfermagem","Departamento de Saúde Coletiva","2020/2",48,1658,34.54
+"35","Escola de Engenharia","Departamento de Engenharia Civil","2018/1",56,3642,65.04
+"36","Escola de Engenharia","Departamento de Engenharia Civil","2018/2",56,5947,106.2
+"37","Escola de Engenharia","Departamento de Engenharia Civil","2019/1",56,3960,70.71
+"38","Escola de Engenharia","Departamento de Engenharia Civil","2019/2",56,2101,37.52
+"39","Escola de Engenharia","Departamento de Engenharia Civil","2020/1",56,4076,72.79
+"40","Escola de Engenharia","Departamento de Engenharia Civil","2020/2",56,4918,87.82
+"41","Escola de Engenharia","Departamento de Engenharia de Minas","2018/1",49,5201,106.14
+"42","Escola de Engenharia","Departamento de Engenharia de Minas","2018/2",49,1334,27.22
+"43","Escola de Engenharia","Departamento de Engenharia de Minas","2019/1",49,5904,120.49
+"44","Escola de Engenharia","Departamento de Engenharia de Minas","2019/2",49,586,11.96
+"45","Escola de Engenharia","Departamento de Engenharia de Minas","2020/1",49,5067,103.41
+"46","Escola de Engenharia","Departamento de Engenharia de Minas","2020/2",49,643,13.12
+"47","Escola de Engenharia","Departamento de Engenharia de Produção e Transportes","2018/1",20,4243,212.15
+"48","Escola de Engenharia","Departamento de Engenharia de Produção e Transportes","2018/2",20,4087,204.35
+"49","Escola de Engenharia","Departamento de Engenharia de Produção e Transportes","2019/1",20,3586,179.3
+"50","Escola de Engenharia","Departamento de Engenharia de Produção e Transportes","2019/2",20,4064,203.2
+"51","Escola de Engenharia","Departamento de Engenharia de Produção e Transportes","2020/1",20,251,12.55
+"52","Escola de Engenharia","Departamento de Engenharia de Produção e Transportes","2020/2",20,5748,287.4
+"53","Escola de Engenharia","Departamento de Engenharia dos Materiais","2018/1",31,3498,112.84
+"54","Escola de Engenharia","Departamento de Engenharia dos Materiais","2018/2",31,2588,83.48
+"55","Escola de Engenharia","Departamento de Engenharia dos Materiais","2019/1",31,3590,115.81
+"56","Escola de Engenharia","Departamento de Engenharia dos Materiais","2019/2",31,4145,133.71
+"57","Escola de Engenharia","Departamento de Engenharia dos Materiais","2020/1",31,636,20.52
+"58","Escola de Engenharia","Departamento de Engenharia dos Materiais","2020/2",31,3200,103.23
+"59","Escola de Engenharia","Departamento de Engenharia Elétrica","2018/1",75,4888,65.17
+"60","Escola de Engenharia","Departamento de Engenharia Elétrica","2018/2",75,5747,76.63
+"61","Escola de Engenharia","Departamento de Engenharia Elétrica","2019/1",75,4876,65.01
+"62","Escola de Engenharia","Departamento de Engenharia Elétrica","2019/2",75,3180,42.4
+"63","Escola de Engenharia","Departamento de Engenharia Elétrica","2020/1",75,2457,32.76
+"64","Escola de Engenharia","Departamento de Engenharia Elétrica","2020/2",75,3897,51.96
+"65","Escola de Engenharia","Departamento de Engenharia Mecânica","2018/1",63,5967,94.71
+"66","Escola de Engenharia","Departamento de Engenharia Mecânica","2018/2",63,4194,66.57
+"67","Escola de Engenharia","Departamento de Engenharia Mecânica","2019/1",63,1593,25.29
+"68","Escola de Engenharia","Departamento de Engenharia Mecânica","2019/2",63,5755,91.35
+"69","Escola de Engenharia","Departamento de Engenharia Mecânica","2020/1",63,5377,85.35
+"70","Escola de Engenharia","Departamento de Engenharia Mecânica","2020/2",63,2768,43.94
+"71","Escola de Engenharia","Departamento de Engenharia Química","2018/1",15,3873,258.2
+"72","Escola de Engenharia","Departamento de Engenharia Química","2018/2",15,5847,389.8
+"73","Escola de Engenharia","Departamento de Engenharia Química","2019/1",15,3394,226.27
+"74","Escola de Engenharia","Departamento de Engenharia Química","2019/2",15,4058,270.53
+"75","Escola de Engenharia","Departamento de Engenharia Química","2020/1",15,3400,226.67
+"76","Escola de Engenharia","Departamento de Engenharia Química","2020/2",15,3243,216.2
+"77","Escola de Engenharia","Departamento de Metalurgia","2018/1",78,3410,43.72
+"78","Escola de Engenharia","Departamento de Metalurgia","2018/2",78,881,11.29
+"79","Escola de Engenharia","Departamento de Metalurgia","2019/1",78,531,6.81
+"80","Escola de Engenharia","Departamento de Metalurgia","2019/2",78,1444,18.51
+"81","Escola de Engenharia","Departamento de Metalurgia","2020/1",78,2173,27.86
+"82","Escola de Engenharia","Departamento de Metalurgia","2020/2",78,1169,14.99
+"83","Escola de Engenharia","Departamento de Sistemas Elétricos de Automação e Energia","2018/1",32,1658,51.81
+"84","Escola de Engenharia","Departamento de Sistemas Elétricos de Automação e Energia","2018/2",32,2850,89.06
+"85","Escola de Engenharia","Departamento de Sistemas Elétricos de Automação e Energia","2019/1",32,355,11.09
+"86","Escola de Engenharia","Departamento de Sistemas Elétricos de Automação e Energia","2019/2",32,4234,132.31
+"87","Escola de Engenharia","Departamento de Sistemas Elétricos de Automação e Energia","2020/1",32,4522,141.31
+"88","Escola de Engenharia","Departamento de Sistemas Elétricos de Automação e Energia","2020/2",32,144,4.5
+"89","Faculdade de Agronomia","Departamento de Fitossanidade","2018/1",13,1426,109.69
+"90","Faculdade de Agronomia","Departamento de Fitossanidade","2018/2",13,5905,454.23
+"91","Faculdade de Agronomia","Departamento de Fitossanidade","2019/1",13,5023,386.38
+"92","Faculdade de Agronomia","Departamento de Fitossanidade","2019/2",13,3254,250.31
+"93","Faculdade de Agronomia","Departamento de Fitossanidade","2020/1",13,5868,451.38
+"94","Faculdade de Agronomia","Departamento de Fitossanidade","2020/2",13,5601,430.85
+"95","Faculdade de Agronomia","Departamento de Horticultura e Silvicultura","2018/1",48,4090,85.21
+"96","Faculdade de Agronomia","Departamento de Horticultura e Silvicultura","2018/2",48,4354,90.71
+"97","Faculdade de Agronomia","Departamento de Horticultura e Silvicultura","2019/1",48,1801,37.52
+"98","Faculdade de Agronomia","Departamento de Horticultura e Silvicultura","2019/2",48,2995,62.4
+"99","Faculdade de Agronomia","Departamento de Horticultura e Silvicultura","2020/1",48,927,19.31
+"100","Faculdade de Agronomia","Departamento de Horticultura e Silvicultura","2020/2",48,5864,122.17
+"101","Faculdade de Agronomia","Departamento de Plantas de Lavoura","2018/1",15,5026,335.07
+"102","Faculdade de Agronomia","Departamento de Plantas de Lavoura","2018/2",15,4397,293.13
+"103","Faculdade de Agronomia","Departamento de Plantas de Lavoura","2019/1",15,1471,98.07
+"104","Faculdade de Agronomia","Departamento de Plantas de Lavoura","2019/2",15,5768,384.53
+"105","Faculdade de Agronomia","Departamento de Plantas de Lavoura","2020/1",15,5225,348.33
+"106","Faculdade de Agronomia","Departamento de Plantas de Lavoura","2020/2",15,863,57.53
+"107","Faculdade de Agronomia","Departamento de Plantas Forrageiras e Agrometeorologia","2018/1",89,5931,66.64
+"108","Faculdade de Agronomia","Departamento de Plantas Forrageiras e Agrometeorologia","2018/2",89,4284,48.13
+"109","Faculdade de Agronomia","Departamento de Plantas Forrageiras e Agrometeorologia","2019/1",89,3266,36.7
+"110","Faculdade de Agronomia","Departamento de Plantas Forrageiras e Agrometeorologia","2019/2",89,3004,33.75
+"111","Faculdade de Agronomia","Departamento de Plantas Forrageiras e Agrometeorologia","2020/1",89,5483,61.61
+"112","Faculdade de Agronomia","Departamento de Plantas Forrageiras e Agrometeorologia","2020/2",89,5390,60.56
+"113","Faculdade de Agronomia","Departamento de Solos","2018/1",42,986,23.48
+"114","Faculdade de Agronomia","Departamento de Solos","2018/2",42,855,20.36
+"115","Faculdade de Agronomia","Departamento de Solos","2019/1",42,1128,26.86
+"116","Faculdade de Agronomia","Departamento de Solos","2019/2",42,4337,103.26
+"117","Faculdade de Agronomia","Departamento de Solos","2020/1",42,4164,99.14
+"118","Faculdade de Agronomia","Departamento de Solos","2020/2",42,5064,120.57
+"119","Faculdade de Agronomia","Departamento Interdisciplinar","2018/1",84,1478,17.6
+"120","Faculdade de Agronomia","Departamento Interdisciplinar","2018/2",84,4199,49.99
+"121","Faculdade de Agronomia","Departamento Interdisciplinar","2019/1",84,4230,50.36
+"122","Faculdade de Agronomia","Departamento Interdisciplinar","2019/2",84,5429,64.63
+"123","Faculdade de Agronomia","Departamento Interdisciplinar","2020/1",84,4719,56.18
+"124","Faculdade de Agronomia","Departamento Interdisciplinar","2020/2",84,3811,45.37
+"125","Faculdade de Arquitetura","Departamento de Arquitetura","2018/1",87,5651,64.95
+"126","Faculdade de Arquitetura","Departamento de Arquitetura","2018/2",87,3942,45.31
+"127","Faculdade de Arquitetura","Departamento de Arquitetura","2019/1",87,3453,39.69
+"128","Faculdade de Arquitetura","Departamento de Arquitetura","2019/2",87,5151,59.21
+"129","Faculdade de Arquitetura","Departamento de Arquitetura","2020/1",87,5448,62.62
+"130","Faculdade de Arquitetura","Departamento de Arquitetura","2020/2",87,3060,35.17
+"131","Faculdade de Arquitetura","Departamento de Design e Expressão Gráfica","2018/1",49,3048,62.2
+"132","Faculdade de Arquitetura","Departamento de Design e Expressão Gráfica","2018/2",49,1462,29.84
+"133","Faculdade de Arquitetura","Departamento de Design e Expressão Gráfica","2019/1",49,457,9.33
+"134","Faculdade de Arquitetura","Departamento de Design e Expressão Gráfica","2019/2",49,3203,65.37
+"135","Faculdade de Arquitetura","Departamento de Design e Expressão Gráfica","2020/1",49,4453,90.88
+"136","Faculdade de Arquitetura","Departamento de Design e Expressão Gráfica","2020/2",49,5364,109.47
+"137","Faculdade de Arquitetura","Departamento de Urbanismo","2018/1",82,986,12.02
+"138","Faculdade de Arquitetura","Departamento de Urbanismo","2018/2",82,3883,47.35
+"139","Faculdade de Arquitetura","Departamento de Urbanismo","2019/1",82,1013,12.35
+"140","Faculdade de Arquitetura","Departamento de Urbanismo","2019/2",82,3069,37.43
+"141","Faculdade de Arquitetura","Departamento de Urbanismo","2020/1",82,2945,35.91
+"142","Faculdade de Arquitetura","Departamento de Urbanismo","2020/2",82,1334,16.27
+"143","Faculdade de Biblioteconomia e Comunicação","Departamento de Ciências da Informação","2018/1",21,5568,265.14
+"144","Faculdade de Biblioteconomia e Comunicação","Departamento de Ciências da Informação","2018/2",21,4672,222.48
+"145","Faculdade de Biblioteconomia e Comunicação","Departamento de Ciências da Informação","2019/1",21,1681,80.05
+"146","Faculdade de Biblioteconomia e Comunicação","Departamento de Ciências da Informação","2019/2",21,2671,127.19
+"147","Faculdade de Biblioteconomia e Comunicação","Departamento de Ciências da Informação","2020/1",21,2459,117.1
+"148","Faculdade de Biblioteconomia e Comunicação","Departamento de Ciências da Informação","2020/2",21,100,4.76
+"149","Faculdade de Biblioteconomia e Comunicação","Departamento de Comunicação","2018/1",38,3809,100.24
+"150","Faculdade de Biblioteconomia e Comunicação","Departamento de Comunicação","2018/2",38,3223,84.82
+"151","Faculdade de Biblioteconomia e Comunicação","Departamento de Comunicação","2019/1",38,1642,43.21
+"152","Faculdade de Biblioteconomia e Comunicação","Departamento de Comunicação","2019/2",38,5416,142.53
+"153","Faculdade de Biblioteconomia e Comunicação","Departamento de Comunicação","2020/1",38,3565,93.82
+"154","Faculdade de Biblioteconomia e Comunicação","Departamento de Comunicação","2020/2",38,3463,91.13
+"155","Faculdade de Ciências Econômicas","Departamento de Ciências Contábeis e Atuariais","2018/1",13,1891,145.46
+"156","Faculdade de Ciências Econômicas","Departamento de Ciências Contábeis e Atuariais","2018/2",13,3563,274.08
+"157","Faculdade de Ciências Econômicas","Departamento de Ciências Contábeis e Atuariais","2019/1",13,3426,263.54
+"158","Faculdade de Ciências Econômicas","Departamento de Ciências Contábeis e Atuariais","2019/2",13,5898,453.69
+"159","Faculdade de Ciências Econômicas","Departamento de Ciências Contábeis e Atuariais","2020/1",13,1455,111.92
+"160","Faculdade de Ciências Econômicas","Departamento de Ciências Contábeis e Atuariais","2020/2",13,1104,84.92
+"161","Faculdade de Ciências Econômicas","Departamento de Economia e Relações Internacionais","2018/1",15,4589,305.93
+"162","Faculdade de Ciências Econômicas","Departamento de Economia e Relações Internacionais","2018/2",15,3873,258.2
+"163","Faculdade de Ciências Econômicas","Departamento de Economia e Relações Internacionais","2019/1",15,2368,157.87
+"164","Faculdade de Ciências Econômicas","Departamento de Economia e Relações Internacionais","2019/2",15,1089,72.6
+"165","Faculdade de Ciências Econômicas","Departamento de Economia e Relações Internacionais","2020/1",15,2852,190.13
+"166","Faculdade de Ciências Econômicas","Departamento de Economia e Relações Internacionais","2020/2",15,4189,279.27
+"167","Faculdade de Direito","Departamento de Ciências Penais","2018/1",47,4498,95.7
+"168","Faculdade de Direito","Departamento de Ciências Penais","2018/2",47,170,3.62
+"169","Faculdade de Direito","Departamento de Ciências Penais","2019/1",47,2850,60.64
+"170","Faculdade de Direito","Departamento de Ciências Penais","2019/2",47,1581,33.64
+"171","Faculdade de Direito","Departamento de Ciências Penais","2020/1",47,1842,39.19
+"172","Faculdade de Direito","Departamento de Ciências Penais","2020/2",47,1888,40.17
+"173","Faculdade de Direito","Departamento de Direito Econômico e do Trabalho","2018/1",80,2550,31.88
+"174","Faculdade de Direito","Departamento de Direito Econômico e do Trabalho","2018/2",80,1745,21.81
+"175","Faculdade de Direito","Departamento de Direito Econômico e do Trabalho","2019/1",80,2041,25.51
+"176","Faculdade de Direito","Departamento de Direito Econômico e do Trabalho","2019/2",80,3957,49.46
+"177","Faculdade de Direito","Departamento de Direito Econômico e do Trabalho","2020/1",80,534,6.68
+"178","Faculdade de Direito","Departamento de Direito Econômico e do Trabalho","2020/2",80,1958,24.48
+"179","Faculdade de Direito","Departamento de Direito Privado e Processo Civil","2018/1",29,5582,192.48
+"180","Faculdade de Direito","Departamento de Direito Privado e Processo Civil","2018/2",29,3735,128.79
+"181","Faculdade de Direito","Departamento de Direito Privado e Processo Civil","2019/1",29,4188,144.41
+"182","Faculdade de Direito","Departamento de Direito Privado e Processo Civil","2019/2",29,264,9.1
+"183","Faculdade de Direito","Departamento de Direito Privado e Processo Civil","2020/1",29,465,16.03
+"184","Faculdade de Direito","Departamento de Direito Privado e Processo Civil","2020/2",29,1141,39.34
+"185","Faculdade de Direito","Departamento de Direito Público e Filosofia do Direito","2018/1",33,3852,116.73
+"186","Faculdade de Direito","Departamento de Direito Público e Filosofia do Direito","2018/2",33,2954,89.52
+"187","Faculdade de Direito","Departamento de Direito Público e Filosofia do Direito","2019/1",33,882,26.73
+"188","Faculdade de Direito","Departamento de Direito Público e Filosofia do Direito","2019/2",33,1812,54.91
+"189","Faculdade de Direito","Departamento de Direito Público e Filosofia do Direito","2020/1",33,5200,157.58
+"190","Faculdade de Direito","Departamento de Direito Público e Filosofia do Direito","2020/2",33,5060,153.33
+"191","Faculdade de Estudos","Departamento de Ensino e Currículo","2018/1",66,3595,54.47
+"192","Faculdade de Estudos","Departamento de Ensino e Currículo","2018/2",66,2975,45.08
+"193","Faculdade de Estudos","Departamento de Ensino e Currículo","2019/1",66,1029,15.59
+"194","Faculdade de Estudos","Departamento de Ensino e Currículo","2019/2",66,445,6.74
+"195","Faculdade de Estudos","Departamento de Ensino e Currículo","2020/1",66,4725,71.59
+"196","Faculdade de Estudos","Departamento de Ensino e Currículo","2020/2",66,3624,54.91
+"197","Faculdade de Estudos","Departamento de Estudos Básicos","2018/1",59,3103,52.59
+"198","Faculdade de Estudos","Departamento de Estudos Básicos","2018/2",59,134,2.27
+"199","Faculdade de Estudos","Departamento de Estudos Básicos","2019/1",59,297,5.03
+"200","Faculdade de Estudos","Departamento de Estudos Básicos","2019/2",59,3854,65.32
+"201","Faculdade de Estudos","Departamento de Estudos Básicos","2020/1",59,1298,22
+"202","Faculdade de Estudos","Departamento de Estudos Básicos","2020/2",59,4170,70.68
+"203","Faculdade de Estudos","Departamento de Estudos Especializados","2018/1",13,497,38.23
+"204","Faculdade de Estudos","Departamento de Estudos Especializados","2018/2",13,1664,128
+"205","Faculdade de Estudos","Departamento de Estudos Especializados","2019/1",13,3950,303.85
+"206","Faculdade de Estudos","Departamento de Estudos Especializados","2019/2",13,1055,81.15
+"207","Faculdade de Estudos","Departamento de Estudos Especializados","2020/1",13,5455,419.62
+"208","Faculdade de Estudos","Departamento de Estudos Especializados","2020/2",13,4155,319.62
+"209","Faculdade de Farmácia","Departamento de Análises","2018/1",59,1302,22.07
+"210","Faculdade de Farmácia","Departamento de Análises","2018/2",59,3004,50.92
+"211","Faculdade de Farmácia","Departamento de Análises","2019/1",59,368,6.24
+"212","Faculdade de Farmácia","Departamento de Análises","2019/2",59,3247,55.03
+"213","Faculdade de Farmácia","Departamento de Análises","2020/1",59,2025,34.32
+"214","Faculdade de Farmácia","Departamento de Análises","2020/2",59,934,15.83
+"215","Faculdade de Farmácia","Departamento de Produção de Matéria Prima","2018/1",33,1215,36.82
+"216","Faculdade de Farmácia","Departamento de Produção de Matéria Prima","2018/2",33,3599,109.06
+"217","Faculdade de Farmácia","Departamento de Produção de Matéria Prima","2019/1",33,591,17.91
+"218","Faculdade de Farmácia","Departamento de Produção de Matéria Prima","2019/2",33,3190,96.67
+"219","Faculdade de Farmácia","Departamento de Produção de Matéria Prima","2020/1",33,5282,160.06
+"220","Faculdade de Farmácia","Departamento de Produção de Matéria Prima","2020/2",33,1479,44.82
+"221","Faculdade de Farmácia","Departamento de Produção e Controle de Medicamentos","2018/1",44,4601,104.57
+"222","Faculdade de Farmácia","Departamento de Produção e Controle de Medicamentos","2018/2",44,4350,98.86
+"223","Faculdade de Farmácia","Departamento de Produção e Controle de Medicamentos","2019/1",44,2405,54.66
+"224","Faculdade de Farmácia","Departamento de Produção e Controle de Medicamentos","2019/2",44,1375,31.25
+"225","Faculdade de Farmácia","Departamento de Produção e Controle de Medicamentos","2020/1",44,1866,42.41
+"226","Faculdade de Farmácia","Departamento de Produção e Controle de Medicamentos","2020/2",44,605,13.75
+"227","Faculdade de Medicina","Departamento de Cirurgia","2018/1",40,2195,54.88
+"228","Faculdade de Medicina","Departamento de Cirurgia","2018/2",40,1505,37.62
+"229","Faculdade de Medicina","Departamento de Cirurgia","2019/1",40,767,19.18
+"230","Faculdade de Medicina","Departamento de Cirurgia","2019/2",40,4992,124.8
+"231","Faculdade de Medicina","Departamento de Cirurgia","2020/1",40,2343,58.58
+"232","Faculdade de Medicina","Departamento de Cirurgia","2020/2",40,2536,63.4
+"233","Faculdade de Medicina","Departamento de Ginecologia e Obstetrícia","2018/1",75,1747,23.29
+"234","Faculdade de Medicina","Departamento de Ginecologia e Obstetrícia","2018/2",75,1218,16.24
+"235","Faculdade de Medicina","Departamento de Ginecologia e Obstetrícia","2019/1",75,2398,31.97
+"236","Faculdade de Medicina","Departamento de Ginecologia e Obstetrícia","2019/2",75,1742,23.23
+"237","Faculdade de Medicina","Departamento de Ginecologia e Obstetrícia","2020/1",75,4051,54.01
+"238","Faculdade de Medicina","Departamento de Ginecologia e Obstetrícia","2020/2",75,1116,14.88
+"239","Faculdade de Medicina","Departamento de Medicina Interna","2018/1",78,3308,42.41
+"240","Faculdade de Medicina","Departamento de Medicina Interna","2018/2",78,2486,31.87
+"241","Faculdade de Medicina","Departamento de Medicina Interna","2019/1",78,3954,50.69
+"242","Faculdade de Medicina","Departamento de Medicina Interna","2019/2",78,2719,34.86
+"243","Faculdade de Medicina","Departamento de Medicina Interna","2020/1",78,5440,69.74
+"244","Faculdade de Medicina","Departamento de Medicina Interna","2020/2",78,2164,27.74
+"245","Faculdade de Medicina","Departamento de Medicina Social","2018/1",82,1568,19.12
+"246","Faculdade de Medicina","Departamento de Medicina Social","2018/2",82,652,7.95
+"247","Faculdade de Medicina","Departamento de Medicina Social","2019/1",82,2386,29.1
+"248","Faculdade de Medicina","Departamento de Medicina Social","2019/2",82,2657,32.4
+"249","Faculdade de Medicina","Departamento de Medicina Social","2020/1",82,5271,64.28
+"250","Faculdade de Medicina","Departamento de Medicina Social","2020/2",82,4906,59.83
+"251","Faculdade de Medicina","Departamento de Nutrição","2018/1",69,2414,34.99
+"252","Faculdade de Medicina","Departamento de Nutrição","2018/2",69,1778,25.77
+"253","Faculdade de Medicina","Departamento de Nutrição","2019/1",69,5201,75.38
+"254","Faculdade de Medicina","Departamento de Nutrição","2019/2",69,5558,80.55
+"255","Faculdade de Medicina","Departamento de Nutrição","2020/1",69,750,10.87
+"256","Faculdade de Medicina","Departamento de Nutrição","2020/2",69,4812,69.74
+"257","Faculdade de Medicina","Departamento de Oftalmologia e OtorrinoLaringologia","2018/1",19,1914,100.74
+"258","Faculdade de Medicina","Departamento de Oftalmologia e OtorrinoLaringologia","2018/2",19,4212,221.68
+"259","Faculdade de Medicina","Departamento de Oftalmologia e OtorrinoLaringologia","2019/1",19,5869,308.89
+"260","Faculdade de Medicina","Departamento de Oftalmologia e OtorrinoLaringologia","2019/2",19,5675,298.68
+"261","Faculdade de Medicina","Departamento de Oftalmologia e OtorrinoLaringologia","2020/1",19,5749,302.58
+"262","Faculdade de Medicina","Departamento de Oftalmologia e OtorrinoLaringologia","2020/2",19,4091,215.32
+"263","Faculdade de Medicina","Departamento de Patologia","2018/1",88,1612,18.32
+"264","Faculdade de Medicina","Departamento de Patologia","2018/2",88,4275,48.58
+"265","Faculdade de Medicina","Departamento de Patologia","2019/1",88,4838,54.98
+"266","Faculdade de Medicina","Departamento de Patologia","2019/2",88,4728,53.73
+"267","Faculdade de Medicina","Departamento de Patologia","2020/1",88,3921,44.56
+"268","Faculdade de Medicina","Departamento de Patologia","2020/2",88,929,10.56
+"269","Faculdade de Medicina","Departamento de Pediatria","2018/1",31,4869,157.06
+"270","Faculdade de Medicina","Departamento de Pediatria","2018/2",31,4615,148.87
+"271","Faculdade de Medicina","Departamento de Pediatria","2019/1",31,253,8.16
+"272","Faculdade de Medicina","Departamento de Pediatria","2019/2",31,3812,122.97
+"273","Faculdade de Medicina","Departamento de Pediatria","2020/1",31,4285,138.23
+"274","Faculdade de Medicina","Departamento de Pediatria","2020/2",31,5496,177.29
+"275","Faculdade de Medicina","Departamento de Psiquiatria e Medicina Legal","2018/1",44,2061,46.84
+"276","Faculdade de Medicina","Departamento de Psiquiatria e Medicina Legal","2018/2",44,4571,103.89
+"277","Faculdade de Medicina","Departamento de Psiquiatria e Medicina Legal","2019/1",44,2104,47.82
+"278","Faculdade de Medicina","Departamento de Psiquiatria e Medicina Legal","2019/2",44,4041,91.84
+"279","Faculdade de Medicina","Departamento de Psiquiatria e Medicina Legal","2020/1",44,4828,109.73
+"280","Faculdade de Medicina","Departamento de Psiquiatria e Medicina Legal","2020/2",44,4801,109.11
+"281","Faculdade de Odontologia","Departamento de Cirurgia e Ortopedia","2018/1",27,2159,79.96
+"282","Faculdade de Odontologia","Departamento de Cirurgia e Ortopedia","2018/2",27,4164,154.22
+"283","Faculdade de Odontologia","Departamento de Cirurgia e Ortopedia","2019/1",27,3312,122.67
+"284","Faculdade de Odontologia","Departamento de Cirurgia e Ortopedia","2019/2",27,3989,147.74
+"285","Faculdade de Odontologia","Departamento de Cirurgia e Ortopedia","2020/1",27,5155,190.93
+"286","Faculdade de Odontologia","Departamento de Cirurgia e Ortopedia","2020/2",27,251,9.3
+"287","Faculdade de Odontologia","Departamento de Odontologia Conservadora","2018/1",85,3842,45.2
+"288","Faculdade de Odontologia","Departamento de Odontologia Conservadora","2018/2",85,451,5.31
+"289","Faculdade de Odontologia","Departamento de Odontologia Conservadora","2019/1",85,805,9.47
+"290","Faculdade de Odontologia","Departamento de Odontologia Conservadora","2019/2",85,483,5.68
+"291","Faculdade de Odontologia","Departamento de Odontologia Conservadora","2020/1",85,4482,52.73
+"292","Faculdade de Odontologia","Departamento de Odontologia Conservadora","2020/2",85,2207,25.96
+"293","Faculdade de Odontologia","Departamento de Odontologia Preventiva e Social","2018/1",47,3774,80.3
+"294","Faculdade de Odontologia","Departamento de Odontologia Preventiva e Social","2018/2",47,4932,104.94
+"295","Faculdade de Odontologia","Departamento de Odontologia Preventiva e Social","2019/1",47,2554,54.34
+"296","Faculdade de Odontologia","Departamento de Odontologia Preventiva e Social","2019/2",47,1325,28.19
+"297","Faculdade de Odontologia","Departamento de Odontologia Preventiva e Social","2020/1",47,1806,38.43
+"298","Faculdade de Odontologia","Departamento de Odontologia Preventiva e Social","2020/2",47,4854,103.28
+"299","Instituto de Artes","Departamento de Arte Dramática","2018/1",53,4083,77.04
+"300","Instituto de Artes","Departamento de Arte Dramática","2018/2",53,3922,74
+"301","Instituto de Artes","Departamento de Arte Dramática","2019/1",53,1290,24.34
+"302","Instituto de Artes","Departamento de Arte Dramática","2019/2",53,2755,51.98
+"303","Instituto de Artes","Departamento de Arte Dramática","2020/1",53,3477,65.6
+"304","Instituto de Artes","Departamento de Arte Dramática","2020/2",53,1014,19.13
+"305","Instituto de Artes","Departamento de Artes Visuais","2018/1",66,5398,81.79
+"306","Instituto de Artes","Departamento de Artes Visuais","2018/2",66,2310,35
+"307","Instituto de Artes","Departamento de Artes Visuais","2019/1",66,3461,52.44
+"308","Instituto de Artes","Departamento de Artes Visuais","2019/2",66,1024,15.52
+"309","Instituto de Artes","Departamento de Artes Visuais","2020/1",66,1712,25.94
+"310","Instituto de Artes","Departamento de Artes Visuais","2020/2",66,1591,24.11
+"311","Instituto de Artes","Departamento de Música","2018/1",22,5529,251.32
+"312","Instituto de Artes","Departamento de Música","2018/2",22,422,19.18
+"313","Instituto de Artes","Departamento de Música","2019/1",22,1980,90
+"314","Instituto de Artes","Departamento de Música","2019/2",22,2456,111.64
+"315","Instituto de Artes","Departamento de Música","2020/1",22,1547,70.32
+"316","Instituto de Artes","Departamento de Música","2020/2",22,5864,266.55
+"317","Instituto de Biociências","Departamento de Biofísica","2018/1",12,566,47.17
+"318","Instituto de Biociências","Departamento de Biofísica","2018/2",12,4687,390.58
+"319","Instituto de Biociências","Departamento de Biofísica","2019/1",12,3537,294.75
+"320","Instituto de Biociências","Departamento de Biofísica","2019/2",12,2403,200.25
+"321","Instituto de Biociências","Departamento de Biofísica","2020/1",12,5748,479
+"322","Instituto de Biociências","Departamento de Biofísica","2020/2",12,5486,457.17
+"323","Instituto de Biociências","Departamento de Biologia Molecular e Biotecnologia","2018/1",78,1393,17.86
+"324","Instituto de Biociências","Departamento de Biologia Molecular e Biotecnologia","2018/2",78,5579,71.53
+"325","Instituto de Biociências","Departamento de Biologia Molecular e Biotecnologia","2019/1",78,773,9.91
+"326","Instituto de Biociências","Departamento de Biologia Molecular e Biotecnologia","2019/2",78,2083,26.71
+"327","Instituto de Biociências","Departamento de Biologia Molecular e Biotecnologia","2020/1",78,5957,76.37
+"328","Instituto de Biociências","Departamento de Biologia Molecular e Biotecnologia","2020/2",78,3040,38.97
+"329","Instituto de Biociências","Departamento de Botânica","2018/1",45,3376,75.02
+"330","Instituto de Biociências","Departamento de Botânica","2018/2",45,4975,110.56
+"331","Instituto de Biociências","Departamento de Botânica","2019/1",45,5510,122.44
+"332","Instituto de Biociências","Departamento de Botânica","2019/2",45,1310,29.11
+"333","Instituto de Biociências","Departamento de Botânica","2020/1",45,1156,25.69
+"334","Instituto de Biociências","Departamento de Botânica","2020/2",45,3086,68.58
+"335","Instituto de Biociências","Departamento de Ecologia","2018/1",37,4313,116.57
+"336","Instituto de Biociências","Departamento de Ecologia","2018/2",37,4967,134.24
+"337","Instituto de Biociências","Departamento de Ecologia","2019/1",37,402,10.86
+"338","Instituto de Biociências","Departamento de Ecologia","2019/2",37,2161,58.41
+"339","Instituto de Biociências","Departamento de Ecologia","2020/1",37,2734,73.89
+"340","Instituto de Biociências","Departamento de Ecologia","2020/2",37,532,14.38
+"341","Instituto de Biociências","Departamento de Genética","2018/1",87,2560,29.43
+"342","Instituto de Biociências","Departamento de Genética","2018/2",87,521,5.99
+"343","Instituto de Biociências","Departamento de Genética","2019/1",87,1398,16.07
+"344","Instituto de Biociências","Departamento de Genética","2019/2",87,148,1.7
+"345","Instituto de Biociências","Departamento de Genética","2020/1",87,3433,39.46
+"346","Instituto de Biociências","Departamento de Genética","2020/2",87,5544,63.72
+"347","Instituto de Biociências","Departamento de Zoologia","2018/1",56,1876,33.5
+"348","Instituto de Biociências","Departamento de Zoologia","2018/2",56,4411,78.77
+"349","Instituto de Biociências","Departamento de Zoologia","2019/1",56,2401,42.88
+"350","Instituto de Biociências","Departamento de Zoologia","2019/2",56,4339,77.48
+"351","Instituto de Biociências","Departamento de Zoologia","2020/1",56,4652,83.07
+"352","Instituto de Biociências","Departamento de Zoologia","2020/2",56,1998,35.68
+"353","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Ciências dos Alimentos","2018/1",40,5960,149
+"354","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Ciências dos Alimentos","2018/2",40,2786,69.65
+"355","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Ciências dos Alimentos","2019/1",40,1825,45.62
+"356","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Ciências dos Alimentos","2019/2",40,1102,27.55
+"357","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Ciências dos Alimentos","2020/1",40,1243,31.08
+"358","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Ciências dos Alimentos","2020/2",40,3088,77.2
+"359","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Tecnologia dos Alimentos","2018/1",10,2145,214.5
+"360","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Tecnologia dos Alimentos","2018/2",10,5799,579.9
+"361","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Tecnologia dos Alimentos","2019/1",10,4775,477.5
+"362","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Tecnologia dos Alimentos","2019/2",10,5198,519.8
+"363","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Tecnologia dos Alimentos","2020/1",10,5315,531.5
+"364","Instituto de Ciência e Tecnologia de Alimentos","Departamento de Tecnologia dos Alimentos","2020/2",10,5688,568.8
+"365","Instituto de Ciências Básicas da Saúde","Departamento de Bioquímica","2018/1",19,2839,149.42
+"366","Instituto de Ciências Básicas da Saúde","Departamento de Bioquímica","2018/2",19,4265,224.47
+"367","Instituto de Ciências Básicas da Saúde","Departamento de Bioquímica","2019/1",19,5005,263.42
+"368","Instituto de Ciências Básicas da Saúde","Departamento de Bioquímica","2019/2",19,4471,235.32
+"369","Instituto de Ciências Básicas da Saúde","Departamento de Bioquímica","2020/1",19,5982,314.84
+"370","Instituto de Ciências Básicas da Saúde","Departamento de Bioquímica","2020/2",19,174,9.16
+"371","Instituto de Ciências Básicas da Saúde","Departamento de Ciências Morfológicas","2018/1",75,2552,34.03
+"372","Instituto de Ciências Básicas da Saúde","Departamento de Ciências Morfológicas","2018/2",75,840,11.2
+"373","Instituto de Ciências Básicas da Saúde","Departamento de Ciências Morfológicas","2019/1",75,3229,43.05
+"374","Instituto de Ciências Básicas da Saúde","Departamento de Ciências Morfológicas","2019/2",75,2230,29.73
+"375","Instituto de Ciências Básicas da Saúde","Departamento de Ciências Morfológicas","2020/1",75,4494,59.92
+"376","Instituto de Ciências Básicas da Saúde","Departamento de Ciências Morfológicas","2020/2",75,4081,54.41
+"377","Instituto de Ciências Básicas da Saúde","Departamento de Farmacologia","2018/1",31,2726,87.94
+"378","Instituto de Ciências Básicas da Saúde","Departamento de Farmacologia","2018/2",31,915,29.52
+"379","Instituto de Ciências Básicas da Saúde","Departamento de Farmacologia","2019/1",31,2679,86.42
+"380","Instituto de Ciências Básicas da Saúde","Departamento de Farmacologia","2019/2",31,1255,40.48
+"381","Instituto de Ciências Básicas da Saúde","Departamento de Farmacologia","2020/1",31,3108,100.26
+"382","Instituto de Ciências Básicas da Saúde","Departamento de Farmacologia","2020/2",31,2364,76.26
+"383","Instituto de Ciências Básicas da Saúde","Departamento de Fisiologia","2018/1",58,4960,85.52
+"384","Instituto de Ciências Básicas da Saúde","Departamento de Fisiologia","2018/2",58,1204,20.76
+"385","Instituto de Ciências Básicas da Saúde","Departamento de Fisiologia","2019/1",58,4920,84.83
+"386","Instituto de Ciências Básicas da Saúde","Departamento de Fisiologia","2019/2",58,2804,48.34
+"387","Instituto de Ciências Básicas da Saúde","Departamento de Fisiologia","2020/1",58,348,6
+"388","Instituto de Ciências Básicas da Saúde","Departamento de Fisiologia","2020/2",58,3904,67.31
+"389","Instituto de Ciências Básicas da Saúde","Departamento de Microbiologia, Imunologia e Parasitologia","2018/1",28,1260,45
+"390","Instituto de Ciências Básicas da Saúde","Departamento de Microbiologia, Imunologia e Parasitologia","2018/2",28,4994,178.36
+"391","Instituto de Ciências Básicas da Saúde","Departamento de Microbiologia, Imunologia e Parasitologia","2019/1",28,2444,87.29
+"392","Instituto de Ciências Básicas da Saúde","Departamento de Microbiologia, Imunologia e Parasitologia","2019/2",28,4610,164.64
+"393","Instituto de Ciências Básicas da Saúde","Departamento de Microbiologia, Imunologia e Parasitologia","2020/1",28,1670,59.64
+"394","Instituto de Ciências Básicas da Saúde","Departamento de Microbiologia, Imunologia e Parasitologia","2020/2",28,2220,79.29
+"395","Instituto de Filosofia e Ciências Humanas","Departamento de Antropologia","2018/1",38,4166,109.63
+"396","Instituto de Filosofia e Ciências Humanas","Departamento de Antropologia","2018/2",38,3422,90.05
+"397","Instituto de Filosofia e Ciências Humanas","Departamento de Antropologia","2019/1",38,1012,26.63
+"398","Instituto de Filosofia e Ciências Humanas","Departamento de Antropologia","2019/2",38,3535,93.03
+"399","Instituto de Filosofia e Ciências Humanas","Departamento de Antropologia","2020/1",38,4370,115
+"400","Instituto de Filosofia e Ciências Humanas","Departamento de Antropologia","2020/2",38,5824,153.26
+"401","Instituto de Filosofia e Ciências Humanas","Departamento de Ciência Política","2018/1",31,333,10.74
+"402","Instituto de Filosofia e Ciências Humanas","Departamento de Ciência Política","2018/2",31,5491,177.13
+"403","Instituto de Filosofia e Ciências Humanas","Departamento de Ciência Política","2019/1",31,5188,167.35
+"404","Instituto de Filosofia e Ciências Humanas","Departamento de Ciência Política","2019/2",31,4169,134.48
+"405","Instituto de Filosofia e Ciências Humanas","Departamento de Ciência Política","2020/1",31,5362,172.97
+"406","Instituto de Filosofia e Ciências Humanas","Departamento de Ciência Política","2020/2",31,1470,47.42
+"407","Instituto de Filosofia e Ciências Humanas","Departamento de Filosofia","2018/1",41,2297,56.02
+"408","Instituto de Filosofia e Ciências Humanas","Departamento de Filosofia","2018/2",41,4180,101.95
+"409","Instituto de Filosofia e Ciências Humanas","Departamento de Filosofia","2019/1",41,313,7.63
+"410","Instituto de Filosofia e Ciências Humanas","Departamento de Filosofia","2019/2",41,1321,32.22
+"411","Instituto de Filosofia e Ciências Humanas","Departamento de Filosofia","2020/1",41,4968,121.17
+"412","Instituto de Filosofia e Ciências Humanas","Departamento de Filosofia","2020/2",41,2621,63.93
+"413","Instituto de Filosofia e Ciências Humanas","Departamento de História","2018/1",46,5740,124.78
+"414","Instituto de Filosofia e Ciências Humanas","Departamento de História","2018/2",46,1922,41.78
+"415","Instituto de Filosofia e Ciências Humanas","Departamento de História","2019/1",46,4173,90.72
+"416","Instituto de Filosofia e Ciências Humanas","Departamento de História","2019/2",46,2214,48.13
+"417","Instituto de Filosofia e Ciências Humanas","Departamento de História","2020/1",46,2572,55.91
+"418","Instituto de Filosofia e Ciências Humanas","Departamento de História","2020/2",46,3203,69.63
+"419","Instituto de Filosofia e Ciências Humanas","Departamento de Sociologia","2018/1",36,2456,68.22
+"420","Instituto de Filosofia e Ciências Humanas","Departamento de Sociologia","2018/2",36,3765,104.58
+"421","Instituto de Filosofia e Ciências Humanas","Departamento de Sociologia","2019/1",36,2105,58.47
+"422","Instituto de Filosofia e Ciências Humanas","Departamento de Sociologia","2019/2",36,413,11.47
+"423","Instituto de Filosofia e Ciências Humanas","Departamento de Sociologia","2020/1",36,1530,42.5
+"424","Instituto de Filosofia e Ciências Humanas","Departamento de Sociologia","2020/2",36,2652,73.67
+"425","Instituto de Física","Departamento de Astronomia","2018/1",18,1238,68.78
+"426","Instituto de Física","Departamento de Astronomia","2018/2",18,2940,163.33
+"427","Instituto de Física","Departamento de Astronomia","2019/1",18,4489,249.39
+"428","Instituto de Física","Departamento de Astronomia","2019/2",18,5761,320.06
+"429","Instituto de Física","Departamento de Astronomia","2020/1",18,777,43.17
+"430","Instituto de Física","Departamento de Astronomia","2020/2",18,2123,117.94
+"431","Instituto de Física","Departamento de Física","2018/1",37,5863,158.46
+"432","Instituto de Física","Departamento de Física","2018/2",37,601,16.24
+"433","Instituto de Física","Departamento de Física","2019/1",37,820,22.16
+"434","Instituto de Física","Departamento de Física","2019/2",37,983,26.57
+"435","Instituto de Física","Departamento de Física","2020/1",37,5801,156.78
+"436","Instituto de Física","Departamento de Física","2020/2",37,1277,34.51
+"437","Instituto de Geociências","Departamento de Geodésia","2018/1",36,2186,60.72
+"438","Instituto de Geociências","Departamento de Geodésia","2018/2",36,1761,48.92
+"439","Instituto de Geociências","Departamento de Geodésia","2019/1",36,3914,108.72
+"440","Instituto de Geociências","Departamento de Geodésia","2019/2",36,2081,57.81
+"441","Instituto de Geociências","Departamento de Geodésia","2020/1",36,452,12.56
+"442","Instituto de Geociências","Departamento de Geodésia","2020/2",36,5846,162.39
+"443","Instituto de Geociências","Departamento de Geografia","2018/1",70,427,6.1
+"444","Instituto de Geociências","Departamento de Geografia","2018/2",70,3551,50.73
+"445","Instituto de Geociências","Departamento de Geografia","2019/1",70,3009,42.99
+"446","Instituto de Geociências","Departamento de Geografia","2019/2",70,4017,57.39
+"447","Instituto de Geociências","Departamento de Geografia","2020/1",70,4603,65.76
+"448","Instituto de Geociências","Departamento de Geografia","2020/2",70,294,4.2
+"449","Instituto de Geociências","Departamento de Geologia","2018/1",20,2875,143.75
+"450","Instituto de Geociências","Departamento de Geologia","2018/2",20,2354,117.7
+"451","Instituto de Geociências","Departamento de Geologia","2019/1",20,1598,79.9
+"452","Instituto de Geociências","Departamento de Geologia","2019/2",20,1403,70.15
+"453","Instituto de Geociências","Departamento de Geologia","2020/1",20,4794,239.7
+"454","Instituto de Geociências","Departamento de Geologia","2020/2",20,5084,254.2
+"455","Instituto de Geociências","Departamento de Mineralogia e Petrologia","2018/1",77,4241,55.08
+"456","Instituto de Geociências","Departamento de Mineralogia e Petrologia","2018/2",77,126,1.64
+"457","Instituto de Geociências","Departamento de Mineralogia e Petrologia","2019/1",77,5615,72.92
+"458","Instituto de Geociências","Departamento de Mineralogia e Petrologia","2019/2",77,1172,15.22
+"459","Instituto de Geociências","Departamento de Mineralogia e Petrologia","2020/1",77,5355,69.55
+"460","Instituto de Geociências","Departamento de Mineralogia e Petrologia","2020/2",77,3396,44.1
+"461","Instituto de Geociências","Departamento de Paleontologia e Estratigrafia","2018/1",73,953,13.05
+"462","Instituto de Geociências","Departamento de Paleontologia e Estratigrafia","2018/2",73,2757,37.77
+"463","Instituto de Geociências","Departamento de Paleontologia e Estratigrafia","2019/1",73,5096,69.81
+"464","Instituto de Geociências","Departamento de Paleontologia e Estratigrafia","2019/2",73,176,2.41
+"465","Instituto de Geociências","Departamento de Paleontologia e Estratigrafia","2020/1",73,5942,81.4
+"466","Instituto de Geociências","Departamento de Paleontologia e Estratigrafia","2020/2",73,2754,37.73
+"467","Instituto de Informática","Departamento de Informática Aplicada","2018/1",29,2167,74.72
+"468","Instituto de Informática","Departamento de Informática Aplicada","2018/2",29,5888,203.03
+"469","Instituto de Informática","Departamento de Informática Aplicada","2019/1",29,1307,45.07
+"470","Instituto de Informática","Departamento de Informática Aplicada","2019/2",29,3417,117.83
+"471","Instituto de Informática","Departamento de Informática Aplicada","2020/1",29,236,8.14
+"472","Instituto de Informática","Departamento de Informática Aplicada","2020/2",29,1843,63.55
+"473","Instituto de Informática","Departamento de Informática Teórica","2018/1",85,4920,57.88
+"474","Instituto de Informática","Departamento de Informática Teórica","2018/2",85,2372,27.91
+"475","Instituto de Informática","Departamento de Informática Teórica","2019/1",85,1378,16.21
+"476","Instituto de Informática","Departamento de Informática Teórica","2019/2",85,1684,19.81
+"477","Instituto de Informática","Departamento de Informática Teórica","2020/1",85,1045,12.29
+"478","Instituto de Informática","Departamento de Informática Teórica","2020/2",85,4846,57.01
+"479","Instituto de Letras","Departamento de Letras Clássicas e Vernáculas","2018/1",43,3748,87.16
+"480","Instituto de Letras","Departamento de Letras Clássicas e Vernáculas","2018/2",43,453,10.53
+"481","Instituto de Letras","Departamento de Letras Clássicas e Vernáculas","2019/1",43,1236,28.74
+"482","Instituto de Letras","Departamento de Letras Clássicas e Vernáculas","2019/2",43,4437,103.19
+"483","Instituto de Letras","Departamento de Letras Clássicas e Vernáculas","2020/1",43,322,7.49
+"484","Instituto de Letras","Departamento de Letras Clássicas e Vernáculas","2020/2",43,5175,120.35
+"485","Instituto de Letras","Departamento de Línguas Modernas","2018/1",14,331,23.64
+"486","Instituto de Letras","Departamento de Línguas Modernas","2018/2",14,4232,302.29
+"487","Instituto de Letras","Departamento de Línguas Modernas","2019/1",14,4800,342.86
+"488","Instituto de Letras","Departamento de Línguas Modernas","2019/2",14,148,10.57
+"489","Instituto de Letras","Departamento de Línguas Modernas","2020/1",14,3735,266.79
+"490","Instituto de Letras","Departamento de Línguas Modernas","2020/2",14,5162,368.71
+"491","Instituto de Letras","Departamento de Linguística, Filologia e Teoria Literária","2018/1",57,2809,49.28
+"492","Instituto de Letras","Departamento de Linguística, Filologia e Teoria Literária","2018/2",57,4962,87.05
+"493","Instituto de Letras","Departamento de Linguística, Filologia e Teoria Literária","2019/1",57,5187,91
+"494","Instituto de Letras","Departamento de Linguística, Filologia e Teoria Literária","2019/2",57,5998,105.23
+"495","Instituto de Letras","Departamento de Linguística, Filologia e Teoria Literária","2020/1",57,5094,89.37
+"496","Instituto de Letras","Departamento de Linguística, Filologia e Teoria Literária","2020/2",57,5662,99.33
+"497","Instituto de Matemática e Estatística","Departamento de Estatística","2018/1",80,4021,50.26
+"498","Instituto de Matemática e Estatística","Departamento de Estatística","2018/2",80,3362,42.02
+"499","Instituto de Matemática e Estatística","Departamento de Estatística","2019/1",80,4051,50.64
+"500","Instituto de Matemática e Estatística","Departamento de Estatística","2019/2",80,916,11.45
+"501","Instituto de Matemática e Estatística","Departamento de Estatística","2020/1",80,2985,37.31
+"502","Instituto de Matemática e Estatística","Departamento de Estatística","2020/2",80,2177,27.21
+"503","Instituto de Matemática e Estatística","Departamento de Matemática Pura e Aplicada","2018/1",56,4393,78.45
+"504","Instituto de Matemática e Estatística","Departamento de Matemática Pura e Aplicada","2018/2",56,4999,89.27
+"505","Instituto de Matemática e Estatística","Departamento de Matemática Pura e Aplicada","2019/1",56,3352,59.86
+"506","Instituto de Matemática e Estatística","Departamento de Matemática Pura e Aplicada","2019/2",56,5073,90.59
+"507","Instituto de Matemática e Estatística","Departamento de Matemática Pura e Aplicada","2020/1",56,2573,45.95
+"508","Instituto de Matemática e Estatística","Departamento de Matemática Pura e Aplicada","2020/2",56,3147,56.2
+"509","Instituto de Pesquisas Hidráulicas","Departamento de Hidromecânica e Hidrologia","2018/1",80,281,3.51
+"510","Instituto de Pesquisas Hidráulicas","Departamento de Hidromecânica e Hidrologia","2018/2",80,2573,32.16
+"511","Instituto de Pesquisas Hidráulicas","Departamento de Hidromecânica e Hidrologia","2019/1",80,2330,29.12
+"512","Instituto de Pesquisas Hidráulicas","Departamento de Hidromecânica e Hidrologia","2019/2",80,1057,13.21
+"513","Instituto de Pesquisas Hidráulicas","Departamento de Hidromecânica e Hidrologia","2020/1",80,3217,40.21
+"514","Instituto de Pesquisas Hidráulicas","Departamento de Hidromecânica e Hidrologia","2020/2",80,5763,72.04
+"515","Instituto de Pesquisas Hidráulicas","Departamento de Obras Hidráulicas","2018/1",82,3044,37.12
+"516","Instituto de Pesquisas Hidráulicas","Departamento de Obras Hidráulicas","2018/2",82,773,9.43
+"517","Instituto de Pesquisas Hidráulicas","Departamento de Obras Hidráulicas","2019/1",82,4914,59.93
+"518","Instituto de Pesquisas Hidráulicas","Departamento de Obras Hidráulicas","2019/2",82,1389,16.94
+"519","Instituto de Pesquisas Hidráulicas","Departamento de Obras Hidráulicas","2020/1",82,5032,61.37
+"520","Instituto de Pesquisas Hidráulicas","Departamento de Obras Hidráulicas","2020/2",82,3944,48.1
+"521","Instituto de Psicologia","Departamento de Psicanálise e Psicopatologia","2018/1",90,282,3.13
+"522","Instituto de Psicologia","Departamento de Psicanálise e Psicopatologia","2018/2",90,2612,29.02
+"523","Instituto de Psicologia","Departamento de Psicanálise e Psicopatologia","2019/1",90,1757,19.52
+"524","Instituto de Psicologia","Departamento de Psicanálise e Psicopatologia","2019/2",90,2773,30.81
+"525","Instituto de Psicologia","Departamento de Psicanálise e Psicopatologia","2020/1",90,1253,13.92
+"526","Instituto de Psicologia","Departamento de Psicanálise e Psicopatologia","2020/2",90,1534,17.04
+"527","Instituto de Psicologia","Departamento de Psicologia do Desenvolvimento e da Personalidade","2018/1",52,1378,26.5
+"528","Instituto de Psicologia","Departamento de Psicologia do Desenvolvimento e da Personalidade","2018/2",52,3310,63.65
+"529","Instituto de Psicologia","Departamento de Psicologia do Desenvolvimento e da Personalidade","2019/1",52,1955,37.6
+"530","Instituto de Psicologia","Departamento de Psicologia do Desenvolvimento e da Personalidade","2019/2",52,4808,92.46
+"531","Instituto de Psicologia","Departamento de Psicologia do Desenvolvimento e da Personalidade","2020/1",52,5969,114.79
+"532","Instituto de Psicologia","Departamento de Psicologia do Desenvolvimento e da Personalidade","2020/2",52,1222,23.5
+"533","Instituto de Psicologia","Departamento de Psicologia Social e Institucional","2018/1",23,1549,67.35
+"534","Instituto de Psicologia","Departamento de Psicologia Social e Institucional","2018/2",23,3619,157.35
+"535","Instituto de Psicologia","Departamento de Psicologia Social e Institucional","2019/1",23,4380,190.43
+"536","Instituto de Psicologia","Departamento de Psicologia Social e Institucional","2019/2",23,1985,86.3
+"537","Instituto de Psicologia","Departamento de Psicologia Social e Institucional","2020/1",23,3458,150.35
+"538","Instituto de Psicologia","Departamento de Psicologia Social e Institucional","2020/2",23,1861,80.91
+"539","Instituto de Psicologia","Departamento de Saúde e Comunicação Humana","2018/1",68,4063,59.75
+"540","Instituto de Psicologia","Departamento de Saúde e Comunicação Humana","2018/2",68,5676,83.47
+"541","Instituto de Psicologia","Departamento de Saúde e Comunicação Humana","2019/1",68,2774,40.79
+"542","Instituto de Psicologia","Departamento de Saúde e Comunicação Humana","2019/2",68,1557,22.9
+"543","Instituto de Psicologia","Departamento de Saúde e Comunicação Humana","2020/1",68,4524,66.53
+"544","Instituto de Psicologia","Departamento de Saúde e Comunicação Humana","2020/2",68,417,6.13
+"545","Instituto de Psicologia","Departamento de Serviço Social","2018/1",52,3358,64.58
+"546","Instituto de Psicologia","Departamento de Serviço Social","2018/2",52,5917,113.79
+"547","Instituto de Psicologia","Departamento de Serviço Social","2019/1",52,3769,72.48
+"548","Instituto de Psicologia","Departamento de Serviço Social","2019/2",52,3090,59.42
+"549","Instituto de Psicologia","Departamento de Serviço Social","2020/1",52,5251,100.98
+"550","Instituto de Psicologia","Departamento de Serviço Social","2020/2",52,201,3.87
+"551","Instituto de Química","Departamento de Físico-Química","2018/1",60,5835,97.25
+"552","Instituto de Química","Departamento de Físico-Química","2018/2",60,2135,35.58
+"553","Instituto de Química","Departamento de Físico-Química","2019/1",60,5669,94.48
+"554","Instituto de Química","Departamento de Físico-Química","2019/2",60,1525,25.42
+"555","Instituto de Química","Departamento de Físico-Química","2020/1",60,958,15.97
+"556","Instituto de Química","Departamento de Físico-Química","2020/2",60,1706,28.43
+"557","Instituto de Química","Departamento de Química Inorgânica","2018/1",41,5767,140.66
+"558","Instituto de Química","Departamento de Química Inorgânica","2018/2",41,3758,91.66
+"559","Instituto de Química","Departamento de Química Inorgânica","2019/1",41,2530,61.71
+"560","Instituto de Química","Departamento de Química Inorgânica","2019/2",41,1406,34.29
+"561","Instituto de Química","Departamento de Química Inorgânica","2020/1",41,1710,41.71
+"562","Instituto de Química","Departamento de Química Inorgânica","2020/2",41,1668,40.68
+"563","Instituto de Química","Departamento de Química Orgânica","2018/1",85,4062,47.79
+"564","Instituto de Química","Departamento de Química Orgânica","2018/2",85,3789,44.58
+"565","Instituto de Química","Departamento de Química Orgânica","2019/1",85,2691,31.66
+"566","Instituto de Química","Departamento de Química Orgânica","2019/2",85,348,4.09
+"567","Instituto de Química","Departamento de Química Orgânica","2020/1",85,954,11.22
+"568","Instituto de Química","Departamento de Química Orgânica","2020/2",85,1720,20.24
+"569","Escola de Enfermagem","Departamento de Saúde Coletiva","2018/1",63,5815,5136
+"570","Escola de Enfermagem","Departamento de Saúde Coletiva","2018/2",63,4217,5507
